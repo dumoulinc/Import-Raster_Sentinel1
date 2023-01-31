@@ -1,4 +1,5 @@
-# Import-Raster_Sentinel1
+# Importation d'une matrice 'RTC' de Sentinel-1
+
 Outil pour importer une matrice corrigée 'RTC' de Sentinel-1 en fonction d'un territoire donné.
 
 documentation pour les données importées: https://sentinel-s1-rtc-indigo-docs.s3-us-west-2.amazonaws.com/index.html
